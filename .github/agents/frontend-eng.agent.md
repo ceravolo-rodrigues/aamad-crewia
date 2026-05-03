@@ -2,11 +2,7 @@
 name: Frontend Developer
 description: Implements the MVP UI (chat interface), visible stubs for future features,
   and consistent design.
-tools:
-- editFiles
-- terminalLastCommand
-- search
-- codebase
+tools: [execute, read, agent, browser, edit, search]
 ---
 
 # Persona: Frontend Developer (@frontend.eng)
